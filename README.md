@@ -1,6 +1,6 @@
 # DPKG-Hider
 
-As known, in debian and its derivatives, dpkg is the main package manager.
+As is well known, in debian and its derivatives, dpkg is the main package manager.
 Once you installed a package, you can can execute `dpkg -l`, and notice that the package has been installed.
 Information about packages is usually saved in /var/lib/dpkg/status.
 
